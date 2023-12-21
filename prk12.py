@@ -47,5 +47,5 @@ def play_game():
             print("Компьютер выйграл!")
             return 0
 
-#eer
+
 play_game()
